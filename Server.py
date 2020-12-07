@@ -1,3 +1,6 @@
+
+# https://socket-lab.herokuapp.com/ | https://git.heroku.com/socket-lab.git
+
 import socket
 import sqlite3 as sl3
 
